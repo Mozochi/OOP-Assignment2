@@ -1,0 +1,14 @@
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\bin\Debug\net8.0\OOP-Assignment2.exe
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\bin\Debug\net8.0\OOP-Assignment2.deps.json
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\bin\Debug\net8.0\OOP-Assignment2.runtimeconfig.json
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\bin\Debug\net8.0\OOP-Assignment2.dll
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\bin\Debug\net8.0\OOP-Assignment2.pdb
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\OOP-Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\OOP-Assignment2.AssemblyInfoInputs.cache
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\OOP-Assignment2.AssemblyInfo.cs
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\OOP-Assignment2.csproj.CoreCompileInputs.cache
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\OOP-Assignment2.dll
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\refint\OOP-Assignment2.dll
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\OOP-Assignment2.pdb
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\OOP-Assignment2.genruntimeconfig.cache
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\ref\OOP-Assignment2.dll
