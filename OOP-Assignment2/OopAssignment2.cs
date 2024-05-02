@@ -45,6 +45,8 @@ public static class OopAssignment2
         {
             Console.WriteLine("Keep practicing!");
         }
+
+        player.Score = 0;
         Console.WriteLine();
         Console.WriteLine("Returning to menu...");
         Console.WriteLine("Press any key to continue.");

@@ -12,3 +12,4 @@ C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\refint
 C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\OOP-Assignment2.pdb
 C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\OOP-Assignment2.genruntimeconfig.cache
 C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\ref\OOP-Assignment2.dll
+C:\Repos\OOP_Assignment2\OOP-Assignment2\OOP-Assignment2\obj\Debug\net8.0\OOP-Assignment2.sourcelink.json
